@@ -12,3 +12,9 @@
 | `team_contributions.csv` | nhóm | khớp với `git shortlog -sne --all` |
 
 Các file metrics/table **không được sửa tay** — giảng viên sẽ chạy lại lệnh để đối chiếu.
+
+## Submission
+
+- Repo: https://github.com/lamsondongbua/K5-Day6-L2-PhamTienDung-2A202603061-DataGovernanceAndPrivacy
+- Tag demo: `demo-180m`
+- Tag cuối: `final-24h`
