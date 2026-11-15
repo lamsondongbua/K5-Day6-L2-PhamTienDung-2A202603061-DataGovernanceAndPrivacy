@@ -12,7 +12,7 @@
 | Git URL | https://github.com/lamsondongbua/K5-Day6-L2-PhamTienDung-2A202603061-DataGovernanceAndPrivacy |
 | Tag `demo-180m` (commit) | `2a06c72` |
 | Tag `final-24h` (commit) | `2a06c72` |
-| Deadline (giờ VN) | ____ |
+| Deadline (giờ VN) | 12h 15/11/2026 |
 
 ## 01 · Problem statement
 
