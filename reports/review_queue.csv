@@ -1,0 +1,11 @@
+rank,item_id,score,reason,suggested_action,slice,evidence_path,reviewer,reviewer_decision,override_value,review_note,reviewed_at
+1,r07,1.6499,"id->name differs from lm-3: {1: 'pedestrian (expected car)', 2: 'car (expected pedestrian)'}; 453/697 matched boxes changed class name vs parent",HOLD,class_swap,images/frame_042.jpg,Phạm Tiến Dũng,approve,,,2026-11-14T10:19:54.063Z
+2,r20,1.6499,"id->name differs from lm-3: {1: 'pedestrian (expected car)', 2: 'car (expected pedestrian)'}; 453/697 matched boxes changed class name vs parent",HOLD,class_swap,images/frame_084.jpg,Phạm Tiến Dũng,approve,,,2026-11-14T10:19:54.063Z
+3,r10,1.0941,"205/697 boxes no longer overlap parent (IoU<0.5), 0 out of image",REWORK,bbox_shift,images/frame_077.jpg,Phạm Tiến Dũng,approve,,,2026-11-14T10:19:54.063Z
+4,r05,1.0918,"202/697 boxes no longer overlap parent (IoU<0.5), 0 out of image",REWORK,bbox_shift,images/frame_011.jpg,Phạm Tiến Dũng,approve,,,2026-11-14T10:19:54.063Z
+5,r08,1.0186,"duplicate ids: annotations=12, images=0",HOLD,id_collision,images/frame_084.jpg,Phạm Tiến Dũng,approve,,,2026-11-14T10:19:54.063Z
+6,r18,1.0186,"duplicate ids: annotations=11, images=0",HOLD,id_collision,images/frame_023.jpg,Phạm Tiến Dũng,approve,,,2026-11-14T10:19:54.063Z
+7,r01,1.0,"categories differ from lm-3: missing=['truck'], unknown ids used=[5]",HOLD,stale_map,images/frame_000.jpg,Phạm Tiến Dũng,approve,,,2026-11-14T10:19:54.063Z
+8,r09,1.0,"categories differ from lm-3: missing=['truck'], unknown ids used=[5]",HOLD,stale_map,images/frame_000.jpg,Phạm Tiến Dũng,approve,,,2026-11-14T10:19:54.063Z
+9,r02,0.89,"9 parent frames missing, 2 frame_index gaps",REWORK,dropped_frames,images/frame_065.jpg,Phạm Tiến Dũng,approve,,,2026-11-14T10:19:54.063Z
+10,r16,0.87,"7 parent frames missing, 1 frame_index gaps",REWORK,dropped_frames,images/frame_025.jpg,Phạm Tiến Dũng,approve,,,2026-11-14T10:19:54.063Z

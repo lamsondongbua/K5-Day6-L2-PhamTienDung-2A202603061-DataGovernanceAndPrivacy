@@ -1,0 +1,14 @@
+ts,scope,status,canonical,reason_code,reason,owner,evidence
+2026-11-14T09:20:11+00:00,t06,HOLD,HOLD,SILENT_DEFECTS_BLOCKED,10/20 candidate releases blocked by semantic invariants; 10 may ship,Pham Tien Dung - reviewer,out\poc\rework_report.md;out\poc\release_decisions.csv
+2026-11-14T09:20:58+00:00,t06,HOLD,HOLD,SILENT_DEFECTS_BLOCKED,10/20 candidate releases blocked by semantic invariants; 10 may ship,Pham Tien Dung - reviewer,out\poc\rework_report.md;out\poc\release_decisions.csv
+2026-11-14T10:21:22+00:00,t06,HOLD,HOLD,SILENT_DEFECTS_BLOCKED,10/20 candidate releases blocked by semantic invariants; 10 may ship,Pham Tien Dung - reviewer,out\poc\rework_report.md;out\poc\release_decisions.csv
+2026-11-14T10:21:43+00:00,t06,HOLD,HOLD,SILENT_DEFECTS_BLOCKED,10/20 candidate releases blocked by semantic invariants; 10 may ship,Pham Tien Dung - reviewer,out\poc\rework_report.md;out\poc\release_decisions.csv
+2026-11-14T10:24:34+00:00,t06,HOLD,HOLD,SILENT_DEFECTS_BLOCKED,10/20 candidate releases blocked by semantic invariants; 10 may ship,Pham Tien Dung - reviewer,out\poc\rework_report.md;out\poc\release_decisions.csv
+2026-11-14T10:31:04+00:00,t06,HOLD,HOLD,SILENT_DEFECTS_BLOCKED,10/20 candidate releases blocked by semantic invariants; 10 may ship,Pham Tien Dung - reviewer,out\poc\rework_report.md;out\poc\release_decisions.csv
+2026-11-14T10:31:18+00:00,t06,HOLD,HOLD,SILENT_DEFECTS_BLOCKED,10/20 candidate releases blocked by semantic invariants; 10 may ship,Pham Tien Dung - reviewer,out\poc\rework_report.md;out\poc\release_decisions.csv
+2026-11-14T10:32:40+00:00,t06,HOLD,HOLD,SILENT_DEFECTS_BLOCKED,10/20 candidate releases blocked by semantic invariants; 10 may ship,Pham Tien Dung - reviewer,out\poc\rework_report.md;out\poc\release_decisions.csv
+2026-11-14T10:33:59+00:00,t06,HOLD,HOLD,SILENT_DEFECTS_BLOCKED,10/20 candidate releases blocked by semantic invariants; 10 may ship,Pham Tien Dung - reviewer,out\poc\rework_report.md;out\poc\release_decisions.csv
+2026-11-14T10:34:57+00:00,t06,HOLD,HOLD,SILENT_DEFECTS_BLOCKED,10/20 candidate releases blocked by semantic invariants; 10 may ship,Pham Tien Dung - reviewer,out\poc\rework_report.md;out\poc\release_decisions.csv
+2026-11-14T10:36:43+00:00,t06,HOLD,HOLD,SILENT_DEFECTS_BLOCKED,10/20 candidate releases blocked by semantic invariants; 10 may ship,Pham Tien Dung - reviewer,out\poc\rework_report.md;out\poc\release_decisions.csv
+2026-11-14T10:38:29+00:00,t06,HOLD,HOLD,SILENT_DEFECTS_BLOCKED,10/20 candidate releases blocked by semantic invariants; 10 may ship,Pham Tien Dung - reviewer,out\poc\rework_report.md;out\poc\release_decisions.csv
+2026-11-14T10:44:24+00:00,t06,HOLD,HOLD,SILENT_DEFECTS_BLOCKED,10/20 candidate releases blocked by semantic invariants; 10 may ship,Pham Tien Dung - reviewer,out\poc\rework_report.md;out\poc\release_decisions.csv
