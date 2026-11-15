@@ -123,14 +123,13 @@ pytest -q
 
 | Học viên | Git author/email | Module / vai trò | Commit SHA / diff chứng minh | Trình bày? |
 |---|---|---|---|---|
-| Pham Tien Dung | ____ | `src/pipeline.py`, `src/baseline_t06.py`, `tests/test_t06_pipeline.py`, reports | ____ | ____ |
+| Pham Tien Dung | lamsondongbua <dungxoi18072004@gmail.com> | `src/pipeline.py`, `src/baseline_t06.py`, `tests/test_t06_pipeline.py`, reports | `cdeb071` (PoC, baseline, tests, report), `3ca979b` (report: SHA, kết quả review) | Có |
 
 ## 11 · References
 
 | URL | Ngày xem | 1–2 dòng ý nghĩa (không chép nguyên văn) |
 |---|---|---|
 | `docs/tracks/T06.md` (repo lab) | 2026-11-14 | Đề bài, output contract, gợi ý invariants. |
-| ____ | ____ | ____ |
 
 ---
 
