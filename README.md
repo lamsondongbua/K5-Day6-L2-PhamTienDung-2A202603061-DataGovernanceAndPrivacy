@@ -176,7 +176,3 @@ make eval-baseline eval-poc compare TRACK=tXX      # cần overlay giảng viên
 
 Bonus: +5 verified E2E trước phút 180 (tag) · +5 ablation/hidden test thật · +5 debate tìm bug thật bằng test.
 
-## Submission
-- Repo: https://github.com/lamsondongbua/K5-Day6-L2-PhamTienDung-2A202603061-DataGovernanceAndPrivacy
-- Tag demo: `demo-180m`
-- Tag cuối: `final-24h`
