@@ -10,8 +10,8 @@
 | Challenge | T06 · Dataset Semantic Integrity & Provenance Gate |
 | Thành viên (5–6) + vai trò | 1. Pham Tien Dung (Lead / Integrator, Core algorithm, Review + report) |
 | Git URL | https://github.com/lamsondongbua/K5-Day6-L2-PhamTienDung-2A202603061-DataGovernanceAndPrivacy |
-| Tag `demo-180m` (commit) | ____ |
-| Tag `final-24h` (commit) | ____ |
+| Tag `demo-180m` (commit) | `2a06c72` |
+| Tag `final-24h` (commit) | `2a06c72` |
 | Deadline (giờ VN) | ____ |
 
 ## 01 · Problem statement
@@ -108,7 +108,7 @@ pytest -q
 ```
 
 - **Output của `pytest -q`:** 54 passed, 39 skipped, 0 failed (39 test bị bỏ); gồm 7 test của nhóm trong `tests/test_t06_pipeline.py` (1 thành công, 5 lỗi theo từng loại, 1 trường hợp biên).
-- **Máy:** Windows 11 · AMD64 (AMD Family 23) · Python 3.13.1 · git sha (HEAD lúc chạy) `b0ce8bf`, *(ghi lại sha sau khi commit)*.
+- **Máy:** Windows 11 · AMD64 (AMD Family 23) · Python 3.13.1 · git sha (tag `final-24h`) `2a06c72`.
 
 ## 09 · Limitations & ethics
 
